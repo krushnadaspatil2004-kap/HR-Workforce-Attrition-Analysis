@@ -56,17 +56,17 @@ Key data fields include:
 
 Organizations need to understand:
 
-# 👥 Total workforce and employee distribution
-# 📉 Employee attrition and turnover patterns
-# 🏢 Department-wise workforce and attrition
-# 👨‍💼 Job-role-wise employee distribution
-# 🎓 Employee education and qualification patterns
-# 💼 Experience and tenure distribution
-# 😊 Employee satisfaction levels
-# 💰 Income and job-level patterns
-# ⏱️ Overtime and work-related factors
-# 📊 Demographic workforce patterns
-# 📈 Factors associated with employee attrition
+ 👥 Total workforce and employee distribution
+ 📉 Employee attrition and turnover patterns
+ 🏢 Department-wise workforce and attrition
+ 👨‍💼 Job-role-wise employee distribution
+ 🎓 Employee education and qualification patterns
+ 💼 Experience and tenure distribution
+ 😊 Employee satisfaction levels
+ 💰 Income and job-level patterns
+ ⏱️ Overtime and work-related factors
+ 📊 Demographic workforce patterns
+ 📈 Factors associated with employee attrition
 
 The objective is to support data-driven workforce planning, employee retention, HR strategy, and organizational decision-making.
 
@@ -99,16 +99,16 @@ The employee dataset was prepared for analysis using data-cleaning and transform
 
 The main steps included:
 
-# Checking dataset shape and structure
-# Checking missing and inconsistent values
-# Removing duplicate records
-# Standardizing column names and values
-# Checking categorical variables
-# Validating numerical fields
-# Checking employee and department information
-# Preparing attrition-related fields
-# Creating calculated columns and measures
-# Preparing the final dataset for Power BI analysis
+- Checking dataset shape and structure
+- Checking missing and inconsistent values
+- Removing duplicate records
+- Standardizing column names and values
+- Checking categorical variables
+- Validating numerical fields
+- Checking employee and department information
+- Preparing attrition-related fields
+- Creating calculated columns and measures
+- Preparing the final dataset for Power BI analysis
 
 Power Query was used to perform data transformation and preparation before developing the interactive dashboard.
 
